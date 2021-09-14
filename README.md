@@ -1,3 +1,3 @@
 <div align="center"> <H1><b>ColabChem</b> </div> 
 Este repositorio presenta una guía introductoria para aplicar conceptos básicos de programación con lenguaje phyton  a la resolución de ejercicios de química ⚗🧪, a través de Google Colabs. Phyton es un lenguaje de programación utilizado en una gran variedad de aplicaciones, con la ventaja de aplicabilidad a diferentes plataformas de trabajo, además, phyton es un software de acceso abierto (open source), siendo accesible a cualquier persona que desee utilizarlo 😆 .  Para dearrollar esta guía introductoria, no se requerie ningún concepto previo de programación. 
-<H2><b>Sesión 1 y Sesión 2: Introducción</b>
+<H3><b>Sesión 1-2: Introducción</b>
