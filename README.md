@@ -7,6 +7,7 @@
   Colab notebook English version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session1_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
   
   Colab notebook Spanish version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Sesi%C3%B3n1_Intro_A.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
+  <hr size="4" width="100%" color="red"> 
   
 <div <p><H3><b>Sesión 2: Introducción Parte B</b></div> 
  <div align="justify">En esta sesión usamos la biblioteca `math` para realizar algunos cálculos estadísticos típicos. Luego usamos la biblioteca `matplotlib` para obtener la representación gráfica de datos del potencial de Lennard-Jones para algunas especies. Además, utilizamos la biblioteca `scipy` para realizar una regresión lineal y obtener la ecuación de calibración. Finalmente, se te solicita encontrar una concentración a partir de una curva de calibración. Puedes ingresar directamente al notebook de Colabs dando clic en alguno de los siguientes enlaces::</div>
