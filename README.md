@@ -4,9 +4,9 @@
  <div align="justify">En la primera sesión, presentamos conceptos básicos de codificación en phyton (Descripción de la plataforma Colabs, tipos de variables en ciencias de la computación, primeros comandos, algunas funciones y rutinas), luego, usamos la biblioteca `math` para realizar algunos cálculos numéricos. Finalmente, usamos la biblioteca numpy para realizar algunos ejercicios con matrices. Depués se propone encontrar una concentración de una lista de datos utilizando lo aprendido. 
   Puedes ingresar directamente al notebook de Colabs dando clic al siguientes enlaces:</div>
   
-  Colab notebook English version ➡️ <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session1_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
+  Colab notebook English version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session1_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
   
-  Colab notebook Spanish version ➡️ <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Sesi%C3%B3n1_Intro_A.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
+  Colab notebook Spanish version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Sesi%C3%B3n1_Intro_A.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
   
 <div <p><H3><b>Sesión 2: Introducción Parte B</b></div> 
   En esta sesión usamos la biblioteca `math` para realizar algunos cálculos estadísticos típicos. Luego usamos la biblioteca `matplotlib` para obtener la representación gráfica de datos del potencial de Lennard-Jones para algunas especies. Además, utilizamos la biblioteca `scipy` para realizar una regresión lineal y obtener la ecuación de calibración. Finalmente, se te solicita encontrar una concentración a partir de una curva de calibración.
