@@ -9,8 +9,8 @@
   Colab notebook Spanish version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Sesi%C3%B3n1_Intro_A.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
   <hr size="4" width="100%" color="red"> 
   
-<div <p><H3><b>Sesión 2: Introducción Parte B</b></div> 
- <div align="justify">En esta sesión usamos la biblioteca `math` para realizar algunos cálculos estadísticos típicos. Luego usamos la biblioteca `matplotlib` para obtener la representación gráfica de datos del potencial de Lennard-Jones para algunas especies. Además, utilizamos la biblioteca `scipy` para realizar una regresión lineal y obtener la ecuación de calibración. Finalmente, se te solicita encontrar una concentración a partir de una curva de calibración. Puedes ingresar directamente al notebook de Colabs dando clic en alguno de los siguientes enlaces::</div>
+<div <p><H3><b>Session 2. Mathematical treatment of experimental data</b></div> 
+ <div align="justify">In the second session, we used the library math to perform some typical statistical calculation. Then we use matplotlib library to obtained graphic data representation for Lennard-Jones potential of some chemical species. Furthermore, we used `scipy.stats` library to perform linear regression and obtain calibration equation. The students are then tasked with finding a concentration from calibrating curve. You can directly access the Colabs notebook by clicking on one of the following link:</div>
  
  Colab notebook English version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session2_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
  
@@ -18,7 +18,7 @@
   <hr size="4" width="100%" color="red"> 
   
 <div <p><H3><b>Sesión 3: Gases Ideales</b></div> 
- <div align="justify">En esta sesión, exploramos la ley de Charles para los gases ideales. Utilizando las bibliotecas `scipy`y `matplotlib`, deberas encontrar la temperatura absoluta en la escala Celsius asumiendo un comportamiento ideal. En la actividad final, graficaremos el factor de compresibilidad (Z) Vs la presión a dos temperaturas diferentes. En la sección de simulación de laboratorio virtual, utilizamos la plataforma PhET para verificar la ley de Boyle y la ley de Charles para gases ideales. Puedes ingresar directamente al notebook de Colabs dando clic en alguno de los siguientes enlaces::</div>
+ <div align="justify">En esta sesión, exploramos la ley de Charles para los gases ideales. Utilizando las bibliotecas `scipy`y `matplotlib`, deberas encontrar la temperatura absoluta en la escala Celsius asumiendo un comportamiento ideal. En la actividad final, graficaremos el factor de compresibilidad (Z) Vs la presión a dos temperaturas diferentes. En la sección de simulación de laboratorio virtual, utilizamos la plataforma PhET para verificar la ley de Boyle y la ley de Charles para gases ideales. You can directly access the Colabs notebook by clicking on one of the following link:</div>
    
   Colab notebook English version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session3_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
   
