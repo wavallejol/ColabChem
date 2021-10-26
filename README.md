@@ -25,7 +25,7 @@
   Colab notebook Spanish version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Sesi%C3%B3n3_Gases_Ideales.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
   <hr size="4" width="100%" color="red"> 
   
-  <div <p><H3><b>Sesión 4: Ecuación de Estado EoS</b></div> 
+  <div <p><H3><b>Session 4. Equation of the State (EoS)</b></div> 
   <div align="justify">In this session, we presented basic concepts to use functions in Python. Then, we explore the general form of analytic equation of EoS. The Abbot equation is presented and reduced to most simple version (the Van der Waals equation). We plotting PV diagram using Van der Waals equation for six different temperatures to the methane.  The students are tasked with plotting PV diagram for CCl<sub>4</sub> applying Van der Waals equation. In the second activity, the students are tasked with plotting PV diagram for methane using Redlich Kwong equation. You can directly access the Colabs notebook by clicking on one of the following link:</div>
    
   Colab notebook English version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session4_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
