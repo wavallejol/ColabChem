@@ -26,7 +26,7 @@
   <hr size="4" width="100%" color="red"> 
   
   <div <p><H3><b>Sesión 4: Ecuación de Estado EoS</b></div> 
-  <div align="justify">En esta sesión, presentamos conceptos básicos para usar funciones en phyton. Luego, exploramos la forma general de ecuación analítica de EoS. La ecuación de Abbot se presenta y se reduce a la versión más simple (la ecuación de Van der Waals). Construiremos el diagrama PV para usar la ecuación de Van der Waals para seis temperaturas diferentes del metano. Después con el trabajo realizado, deberás construir el diagrama PV para el CCl<sub>4</sub> utilizando la ecuación de Van der Waals. En la segunda actividad, deberas construir un diagrama de PV para el metano utilizando la ecuación de Redlich Kwong. Puedes ingresar directamente al notebook de Colabs dando clic en alguno de los siguientes enlaces:</div>
+  <div align="justify">In this session, we presented basic concepts to use functions in Python. Then, we explore the general form of analytic equation of EoS. The Abbot equation is presented and reduced to most simple version (the Van der Waals equation). We plotting PV diagram using Van der Waals equation for six different temperatures to the methane.  The students are tasked with plotting PV diagram for CCl<sub>4</sub> applying Van der Waals equation. In the second activity, the students are tasked with plotting PV diagram for methane using Redlich Kwong equation. You can directly access the Colabs notebook by clicking on one of the following link:</div>
    
   Colab notebook English version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session4_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
   
