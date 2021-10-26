@@ -17,8 +17,8 @@
   Colab notebook Spanish version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Sesi%C3%B3n2_Intro_B.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
   <hr size="4" width="100%" color="red"> 
   
-<div <p><H3><b>Sesión 3: Gases Ideales</b></div> 
- <div align="justify">En esta sesión, exploramos la ley de Charles para los gases ideales. Utilizando las bibliotecas `scipy`y `matplotlib`, deberas encontrar la temperatura absoluta en la escala Celsius asumiendo un comportamiento ideal. En la actividad final, graficaremos el factor de compresibilidad (Z) Vs la presión a dos temperaturas diferentes. En la sección de simulación de laboratorio virtual, utilizamos la plataforma PhET para verificar la ley de Boyle y la ley de Charles para gases ideales. You can directly access the Colabs notebook by clicking on one of the following link:</div>
+<div <p><H3><b>Sesión 3: Ideal Gases</b></div> 
+ <div align="justify">In this session, we explore the Charles’s law for the ideal gases.  For using scipy.stats and matplotlib libraries, the students are tasked with finding the absolute temperature in Celsius scale assuming ideal behavior. In the final activity, the students are tasked with plotting compressibility factor (Z) Vs pressure at two different temperatures.  In the Virtual Lab Simulation section, we utilized PhET platform to verified Boyle’s law and Charles’s law for ideal gases. Analysis and plotting data can be solved using the Colabs notebook. You can directly access the Colabs notebook by clicking on one of the following link:</div>
    
   Colab notebook English version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session3_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
   
