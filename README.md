@@ -11,9 +11,9 @@
 <div <p><H3><b>Sesión 2: Introducción Parte B</b></div> 
  <div align="justify">En esta sesión usamos la biblioteca `math` para realizar algunos cálculos estadísticos típicos. Luego usamos la biblioteca `matplotlib` para obtener la representación gráfica de datos del potencial de Lennard-Jones para algunas especies. Además, utilizamos la biblioteca `scipy` para realizar una regresión lineal y obtener la ecuación de calibración. Finalmente, se te solicita encontrar una concentración a partir de una curva de calibración. Puedes ingresar directamente al notebook de Colabs dando clic al siguientes enlaces:</div>
   
-  Colab notebook English version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session2_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
+  Colab notebook English version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session3_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
   
-  Colab notebook Spanish version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Sesi%C3%B3n2_Intro_B.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
+  Colab notebook Spanish version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Sesi%C3%B3n3_Gases_Ideales.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
   
 <div <p><H3><b>Sesión 3: Gases Ideales</b></div> 
  <div align="justify">En esta sesión, exploramos la ley de Charles para los gases ideales. Utilizando las bibliotecas `scipy`y `matplotlib`, deberas encontrar la temperatura absoluta en la escala Celsius asumiendo un comportamiento ideal. En la actividad final, graficaremos el factor de compresibilidad (Z) Vs la presión a dos temperaturas diferentes. En la sección de simulación de laboratorio virtual, utilizamos la plataforma PhET para verificar la ley de Boyle y la ley de Charles para gases ideales. Puedes ingresar directamente al notebook de Colabs dando clic al siguientes enlaces:</div>
