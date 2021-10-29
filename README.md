@@ -11,28 +11,21 @@
   
   <div <H4><b>Colab notebook English version</b> <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session1_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
   
-  <div <H4><b>Colab notebook Spanish version</b> <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Sesi%C3%B3n1_Intro_A.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
+  <div <H4><b>Colab notebook Spanish version</b> <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Sesi%C3%B3n1_Intro_A.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
   <hr size="4" width="100%" color="red"> 
   
 <div <p><H3><b>Session 2. Mathematical treatment of experimental data</b></div> 
  <div align="justify">In the second session, we used the library math to perform some typical statistical calculation. Then we use matplotlib library to obtained graphic data representation for Lennard-Jones potential of some chemical species. Furthermore, we used `scipy.stats` library to perform linear regression and obtain calibration equation. The students are then tasked with finding a concentration from calibrating curve. You can directly access the Colabs notebook by clicking on one of the following link:</div>
  
-  ScreenCast Lesson 2 <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session1_English.ipynb">  <img src='https://github.com/wavallejol/ColabChem/blob/main/Images/play3.png' width = "39" height = "36" /> </a>
+ <div <H4><b>Screencast Lesson 2 </b><a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session1_English.ipynb">  <img src='https://github.com/wavallejol/ColabChem/blob/main/Images/play3.png' width = "39" height = "36" /> </a></div>
  
- Colab notebook English version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session2_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
+  <div <H4><b>Colab notebook English version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session2_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
  
-  Colab notebook Spanish version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Sesi%C3%B3n2_Intro_B.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
+  <div <H4><b>Colab notebook Spanish version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Sesi%C3%B3n2_Intro_B.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
   <hr size="4" width="100%" color="red"> 
   
 <div <p><H3><b>Session 3: Ideal Gases</b></div> 
  <div align="justify">In this session, we explore the Charles’s law for the ideal gases.  For using scipy.stats and matplotlib libraries, the students are tasked with finding the absolute temperature in Celsius scale assuming ideal behavior. In the final activity, the students are tasked with plotting compressibility factor (Z) Vs pressure at two different temperatures.  In the Virtual Lab Simulation section, we utilized PhET platform to verified Boyle’s law and Charles’s law for ideal gases. Analysis and plotting data can be solved using the Colabs notebook. You can directly access the Colabs notebook by clicking on one of the following link:</div>
- 
-  ScreenCast Lesson 3 <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session1_English.ipynb">  <img src='https://github.com/wavallejol/ColabChem/blob/main/Images/play3.png' width = "39" height = "36" /> </a>
-   
-  Colab notebook English version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session3_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
-  
-  Colab notebook Spanish version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Sesi%C3%B3n3_Gases_Ideales.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
-  <hr size="4" width="100%" color="red"> 
   
   <div <p><H3><b>Session 4. Equation of the State (EoS)</b></div> 
   <div align="justify">In this session, we presented basic concepts to use functions in Python. Then, we explore the general form of analytic equation of EoS. The Abbot equation is presented and reduced to most simple version (the Van der Waals equation). We plotting PV diagram using Van der Waals equation for six different temperatures to the methane.  The students are tasked with plotting PV diagram for CCl<sub>4</sub> applying Van der Waals equation. In the second activity, the students are tasked with plotting PV diagram for methane using Redlich Kwong equation. You can directly access the Colabs notebook by clicking on one of the following link:</div>
