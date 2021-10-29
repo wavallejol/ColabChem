@@ -4,7 +4,7 @@
 <div <p><H3><b>Session 1. Introduction to Google Colaboratory</b></div> 
  <div align="justify">In the first session, we presented basic concepts of coding in Python (e.g., description of Colabs platform, types of variables in computer sciences, first commands, some function and routines), then, we used library `math` to perform numerical calculations. Finally, we used library numpy to solve exercises with arrays and the students are then tasked with finding a concentration from a list of data. You can directly access the Colabs notebook by clicking on one of the following link:</div>
  
- ScreeCast Lesson 1 <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session1_English.ipynb">  <img src='https://github.com/wavallejol/ColabChem/blob/main/Images/playfile.jpeg' width = "50" height = "25" /> </a>
+ ScreeCast Lesson 1 <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session1_English.ipynb">  <img src='https://github.com/wavallejol/ColabChem/blob/main/Images/Play.png' width = "50" height = "45" /> </a>
   
   Colab notebook English version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session1_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
   
