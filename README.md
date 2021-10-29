@@ -1,5 +1,8 @@
 <div align="center"><img src='https://github.com/wavallejol/ColabChem/blob/main/Images/COLAB.gif' width = "300" height = "300" /> </a></div>
   <div align="justify">This repository presents an introductory guide to applying basic concepts of programming with the phyton language to solve chemistry exercises ⚗🧪, through Google Colabs. Phyton is a programming language used in a great variety of applications, with the advantage of applicability to different work platforms, in addition, python is an open-access language being accessible to anyone who wishes to use it. No prior programming concept is required to develop this introductory guide. 😆 </div>
+  
+   <div <H4><b>Screencast Lesson 1 </b><a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session1_English.ipynb">  <img src='https://github.com/wavallejol/ColabChem/blob/main/Images/play3.png' width = "39" height = "36" /> </a></div>
+  
   <hr size="4" width="100%" color="red">  
 <div <p><H3><b>Session 1. Introduction to Google Colaboratory</b></div> 
  <div align="justify">In the first session, we presented basic concepts of coding in Python (e.g., description of Colabs platform, types of variables in computer sciences, first commands, some function and routines), then, we used library `math` to perform numerical calculations. Finally, we used library numpy to solve exercises with arrays and the students are then tasked with finding a concentration from a list of data. You can directly access the Colabs notebook by clicking on one of the following link:</div>
