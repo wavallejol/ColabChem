@@ -8,7 +8,7 @@
   
   <div <H4><b>Colab notebook English version</b> <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session1_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
   
-  Colab notebook Spanish version <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Sesi%C3%B3n1_Intro_A.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
+  <div <H4><b>Colab notebook Spanish version</b> <a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Sesi%C3%B3n1_Intro_A.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
   <hr size="4" width="100%" color="red"> 
   
 <div <p><H3><b>Session 2. Mathematical treatment of experimental data</b></div> 
