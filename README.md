@@ -1,7 +1,7 @@
 <div align="center"><img src='https://github.com/wavallejol/ColabChem/blob/main/Images/COLAB.gif' width = "300" height = "300" /> </a></div>
   <div align="justify">This repository presents an introductory guide to applying basic concepts of programming with the phyton language to solve chemistry exercises ⚗🧪, through Google Colabs. Phyton is a programming language used in a great variety of applications, with the advantage of applicability to different work platforms, in addition, python is an open-access language being accessible to anyone who wishes to use it. No prior programming concept is required to develop this introductory guide. 😆 </div>
   
-   <div <H4><b>Screencast get started</b><a href="hhttps://youtu.be/KBlv9zN2e0k">  <img src='https://github.com/wavallejol/ColabChem/blob/main/Images/play3.png' width = "39" height = "36" /> </a></div>
+   <div <H4><b>Screencast get started</b><a href="https://youtu.be/KBlv9zN2e0k">  <img src='https://github.com/wavallejol/ColabChem/blob/main/Images/play3.png' width = "39" height = "36" /> </a></div>
   <hr size="4" width="100%" color="red"> 
   
 <div <p><H3><b>Session 1. Introduction to Google Colaboratory</b></div> 
