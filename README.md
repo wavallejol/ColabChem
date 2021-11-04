@@ -17,7 +17,7 @@
 <div <p><H3><b>Session 2. Mathematical treatment of experimental data</b></div> 
  <div align="justify">In the second session, we used the library math to perform some typical statistical calculation. Then we use matplotlib library to obtained graphic data representation for Lennard-Jones potential of some chemical species. Furthermore, we used `scipy.stats` library to perform linear regression and obtain calibration equation. The students are then tasked with finding a concentration from calibrating curve. You can directly access the Colabs notebook by clicking on one of the following link:</div>
  
- <div <H4><b>Screencast Lesson 2 </b><a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session1_English.ipynb">  <img src='https://github.com/wavallejol/ColabChem/blob/main/Images/play3.png' width = "39" height = "36" /> </a></div>
+ <div <H4><b>Screencast Lesson 2 </b><a href="https://youtu.be/P2d66_f62EM">  <img src='https://github.com/wavallejol/ColabChem/blob/main/Images/play3.png' width = "39" height = "36" /> </a></div>
  
   <div <H4><b>Colab notebook English version </b><a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session2_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
  
