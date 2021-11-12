@@ -50,7 +50,7 @@
   <div <H4><b>Colab notebook Spanish version </b><a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Sesi%C3%B3n5_Primera_Ley.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
   <hr size="4" width="100%" color="red"> 
   
-<div <p><H3><b>Session 6: Hess's Law: Matrix Method</b></div> 
+<div <p><H3><b>Session 6: Hess's Law - Matrix Method</b></div> 
  <div align="justify">In session 6, resorting to a procedure previously reported and used by Khalil, we calculated enthalpy of reactions by a matrix method. In this Colab notebook, we showed the technical aspects necessary to obtain a matrix from chemical equations, and we used the numpy library to introduce matrix code, and the linalg.lstqs()function to solve the equation. Then, the students were tasked with calculating the enthalpy of some reactions through the matrix method. In the final activity, we utilized the matplotlib library and the matshow()function to plot the matrix form of the chemical reaction with colormaps – this is an attractive way to present this type of information. You can directly access the Colabs notebook by clicking on one of the following links:</div>
    
   <div <H4><b>Colab notebook English version </b><a href="https://colab.research.google.com/github/wavallejol/ColabChem/blob/main/Session6_English.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a></div>
